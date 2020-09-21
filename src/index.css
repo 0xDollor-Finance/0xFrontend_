@@ -1,0 +1,18 @@
+body {
+  /* background: #fff8ee; */
+  background: url(https://0xdollar.finance/background.jpg);
+  background-size: contain;
+  /* background-repeat: no-repeat; */
+
+  margin: 0;
+  /* font-family: 'Noto Sans', sans-serif; */
+  font-family: 'Federant', cursive;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
